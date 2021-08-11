@@ -1,0 +1,200 @@
+
+body {
+  text-align: center;
+}
+
+p {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+  color: white;
+}
+
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+}
+.container{
+  padding: 3% 5%;
+}
+
+.video{
+  max-width: 100%;
+  max-width: 50%;
+}
+
+.nav-section{
+  background-color: red;
+}
+
+.learn-more:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+.learn-more{
+  text-decoration: none;
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+  margin: auto;
+  color: red;
+}
+
+.title {
+  padding: 20px;
+}
+
+.discription {
+  text-align:left;
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0 20px 100px 110px;
+  padding-left: 30px;
+  padding-top: 30px;
+  color: black;
+}
+.info-logo{
+  position: absolute;
+  right: -25px;
+  top: 20px;
+  width: 60%;
+}
+.item {
+  position: relative;
+  text-align: center;
+  min-width: 320px;
+  border-radius: 4px;
+  margin-bottom: 40px;
+
+}
+
+.image {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  left: 20px;
+  position: relative;
+  float: left;
+  width: 100px;
+  height: 200px;
+}
+.top {
+  background-color: red;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+
+.bottom-container {
+  background-color: red;
+  padding: 20px;
+}
+
+.image-box{
+  border-radius: 22px;
+  width: 104px;
+  height: 190px;
+}
+
+.para {
+  line-height: 1.8;
+  text-align: left;
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+  color: black;
+}
+.container-margin{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.build-this-together{
+  margin-top: 20px;
+  display: block;
+}
+.email-button{
+  background-color: red;
+  border: none;
+}
+.email-a{
+  text-decoration: none;
+}
+.email-text{
+  font-family: 'Noto Sans', sans-serif;
+  color: white;
+}
+
+.table{
+  width: 20%
+}
+.middle-container{
+  justify-content: space-around;
+}
+.center{
+  text-align: center;
+}
+
+.ooredoo-font{
+  margin: 20px auto;
+  padding: 20px;
+    font-family: 'MyWebFont';
+  font-size: 20px;
+  color: white;
+}
+.top-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 150px;
+}
+.ddd-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 177px;
+}
+.oomanji-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 173px;
+}
+.moax-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 268px;
+}
+.mpitesan-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 267px;
+}
+.ocr-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 166px;
+}
+.ocade-title{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 173px;
+}
+
+.image-box{
+  width: 150px;
+  height: 300px;
+}
+
+.info{
+  width: 90px;
+  height: 180px;
+}
+.image-box-ocr{
+  border-radius: 10px;
+  width: 104px;
+  height: 190px;
+}
+
+.image-box-ocade{
+  border-radius: 14px;
+  width: 104px;
+  height: 190px;
+}
+.image-box-mpitesan{
+  border-radius: 15px;
+  width: 104px;
+  height: 190px;
+}
